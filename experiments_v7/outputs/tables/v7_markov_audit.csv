@@ -1,0 +1,7 @@
+component,v7_observed,still_hidden,assessment
+current submission,"risk, uncertainty",true harmfulness and developer quality,true harmfulness is intentionally hidden except from oracle_upper_bound
+review queue,"queue load, mean queued risk, mean remaining delay, capacity remaining",exact ordered item list and each submission quality,partially observed; improved over V6 but not perfectly Markov
+automated-check queue,auto queue load,exact risk and delay composition,partially observed; possible residual POMDP structure
+delayed incidents,incident queue load and mean severity,exact remaining delays and severities,partially observed; terminal liquidation reduces end-of-horizon bias
+appeals,pending appeal count,exact appeal ages,partially observed; delayed appeals explicitly ablated
+ecosystem feedback,"trust, participation, false restrictions, unresolved incidents",individual developer identities,"sufficient for aggregate simulation, not for real platform claims"

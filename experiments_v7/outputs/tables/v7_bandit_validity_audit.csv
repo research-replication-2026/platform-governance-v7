@@ -1,0 +1,4 @@
+issue,diagnosis,v7_correction,implication
+V6 contextual bandit reward attribution,"The bandit updated on total step reward, which mixed current-action reward with consequences of earlier decisions.",Bandit updates use only reward_components.current_action_reward.,The bandit can no longer learn from delayed consequences that it cannot assign to its own current action.
+Sequential evaluation,A bandit policy can still be evaluated in a sequential environment.,"Evaluation reports total reward for all policies, but training remains non-sequential for the bandit.",RL advantage is interpretable as value beyond contextual immediate-reward learning.
+Past-consequence reward,"Delayed incidents, appeals and queue resolutions are not caused by the current decision.","Step info separates current_action_reward, delayed_past_reward and terminal_liquidation_reward.",Reward components can be audited directly in output tables.

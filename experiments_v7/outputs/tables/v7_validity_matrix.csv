@@ -1,0 +1,5 @@
+category,claim,status,manuscript_use
+simulation_assumption,"Harm rates, review accuracy, trust, participation, appeal and incident dynamics are simulated.",assumed,"Report as explicit model assumptions, not empirical estimates."
+measured_result,"V7 measures reward components, convergence diagnostics, coverage, security, generativity and costs.",measured in V7,Use as simulation evidence conditional on the model.
+conditional_conclusion,RL has value only if it beats corrected contextual bandit under delayed consequences and comparable safety.,tested in V7,"Use with paired differences, coverage diagnostics and ablations."
+not_demonstrable,"RL improves real Google Play, Apple or Amazon governance.",not demonstrated,Do not claim without logged state-action-outcome trajectories.
