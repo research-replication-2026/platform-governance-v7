@@ -1,0 +1,13 @@
+environment,scenario,cross_block_episode_seed_collisions_across_all_algorithms,train_eval_seed_collisions,primary_training_blocks
+nonsequential,balanced_reference,0,0,30
+nonsequential,high_security_pressure,0,0,30
+nonsequential,high_review_capacity,0,0,30
+nonsequential,constrained_review_capacity,0,0,30
+nonsequential,high_false_restriction_cost,0,0,30
+nonsequential,participation_sensitive_ecosystem,0,0,30
+sequential,balanced_reference,0,0,30
+sequential,high_security_pressure,0,0,30
+sequential,high_review_capacity,0,0,30
+sequential,constrained_review_capacity,0,0,30
+sequential,high_false_restriction_cost,0,0,30
+sequential,participation_sensitive_ecosystem,0,0,30

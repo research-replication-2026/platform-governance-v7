@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="493.2pt" height="345.6pt" viewBox="0 0 493.2 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-11T19:48:11.151246</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 493.2 345.6 
+L 493.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.53416 88.128 
+L 466.66584 88.128 
+Q 471.44988 88.128 471.44988 84.74112 
+L 471.44988 23.77728 
+Q 471.44988 20.3904 466.66584 20.3904 
+L 26.53416 20.3904 
+Q 21.75012 20.3904 21.75012 23.77728 
+L 21.75012 84.74112 
+Q 21.75012 88.128 26.53416 88.128 
+z
+" clip-path="url(#p5d4b9ec666)" style="fill: #edf3f6; stroke: #36596c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.53416 182.96064 
+L 466.66584 182.96064 
+Q 471.44988 182.96064 471.44988 179.57376 
+L 471.44988 118.60992 
+Q 471.44988 115.22304 466.66584 115.22304 
+L 26.53416 115.22304 
+Q 21.75012 115.22304 21.75012 118.60992 
+L 21.75012 179.57376 
+Q 21.75012 182.96064 26.53416 182.96064 
+z
+" clip-path="url(#p5d4b9ec666)" style="fill: #edf3f6; stroke: #36596c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 26.53416 291.3408 
+L 162.8793 291.3408 
+Q 167.66334 291.3408 167.66334 287.95392 
+L 167.66334 220.21632 
+Q 167.66334 216.82944 162.8793 216.82944 
+L 26.53416 216.82944 
+Q 21.75012 216.82944 21.75012 220.21632 
+L 21.75012 287.95392 
+Q 21.75012 291.3408 26.53416 291.3408 
+z
+" clip-path="url(#p5d4b9ec666)" style="fill: #edf3f6; stroke: #36596c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 178.188228 291.3408 
+L 314.533368 291.3408 
+Q 319.317408 291.3408 319.317408 287.95392 
+L 319.317408 220.21632 
+Q 319.317408 216.82944 314.533368 216.82944 
+L 178.188228 216.82944 
+Q 173.404188 216.82944 173.404188 220.21632 
+L 173.404188 287.95392 
+Q 173.404188 291.3408 178.188228 291.3408 
+z
+" clip-path="url(#p5d4b9ec666)" style="fill: #edf3f6; stroke: #36596c; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 327.92868 291.3408 
+L 464.27382 291.3408 
+Q 469.05786 291.3408 469.05786 287.95392 
+L 469.05786 220.21632 
+Q 469.05786 216.82944 464.27382 216.82944 
+L 327.92868 216.82944 
+Q 323.14464 216.82944 323.14464 220.21632 
+L 323.14464 287.95392 
+Q 323.14464 291.3408 327.92868 291.3408 
+z
+" clip-path="url(#p5d4b9ec666)" style="fill: #edf3f6; stroke: #36596c; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(183.158437 51.196212)">Public documentary sources</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(145.058906 61.998673)">50 sources → 32 retained governance events</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(178.758984 146.028852)">Stylized decision environment</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(107.181562 156.831313)">Documented mechanisms; synthetic probabilities and utilities</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(49.452199 245.620901)">A: policy robustness</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(54.402902 256.423362)">30 training blocks</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(40.149855 267.225823)">6 scenarios × 2 settings</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(207.223454 245.620901)">B: reward reports</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(203.375251 256.423362)">0%, 25%, 50% loss</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(195.777985 267.225823)">3 sequential scenarios</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(361.054688 245.620901)">C: observations</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(331.738594 256.423362)">Original / reduced / enriched</text>
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'" transform="translate(345.518438 267.225823)">3 sequential scenarios</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 246.6 90.129038 
+Q 246.6 101.675893 246.6 112.104715 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+    <path d="M 248.4 108.504715 
+L 246.6 112.104715 
+L 244.8 108.504715 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 244.651812 183.391649 
+Q 170.056801 199.894721 96.553429 216.156285 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+    <path d="M 100.457257 217.136143 
+L 96.553429 216.156285 
+L 99.679612 213.621137 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 246.6 184.957543 
+Q 246.6 199.891659 246.6 213.707741 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+    <path d="M 248.4 210.107741 
+L 246.6 213.707741 
+L 244.8 210.107741 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 248.548188 183.391649 
+Q 323.143199 199.894721 396.646571 216.156285 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+    <path d="M 393.520388 213.621137 
+L 396.646571 216.156285 
+L 392.742743 217.136143 
+" style="fill: none; stroke: #36596c; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle" x="246.6" y="320.12928" transform="rotate(-0 246.6 320.12928)">Common legal-action masks • Full-reward evaluation • Training-block inference</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5d4b9ec666">
+   <rect x="7.398" y="3.456" width="478.404" height="338.688"/>
+  </clipPath>
+ </defs>
+</svg>

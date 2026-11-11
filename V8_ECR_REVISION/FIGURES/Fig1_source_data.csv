@@ -1,0 +1,14 @@
+x,y,width,height,label
+0.04,0.76,0.92,0.18,"Public documentary sources
+50 sources → 32 retained governance events"
+0.04,0.48,0.92,0.18,"Stylized decision environment
+Documented mechanisms; synthetic probabilities and utilities"
+0.04,0.16,0.285,0.2,"A: policy robustness
+30 training blocks
+6 scenarios × 2 settings"
+0.357,0.16,0.285,0.2,"B: reward reports
+0%, 25%, 50% loss
+3 sequential scenarios"
+0.67,0.16,0.285,0.2,"C: observations
+Original / reduced / enriched
+3 sequential scenarios"

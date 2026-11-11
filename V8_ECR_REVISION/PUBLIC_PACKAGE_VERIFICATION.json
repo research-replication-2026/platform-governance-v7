@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "checks": [
+    "Lossless materialization and scientific-source hashes",
+    "Primary and budget analysis from detached supplied package",
+    "All publication figures regenerated",
+    "Independent recalculation of raw primary and budget contrasts",
+    "Fresh budget manifest/prefix design setup without rerunning training"
+  ]
+}

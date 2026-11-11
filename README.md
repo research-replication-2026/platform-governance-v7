@@ -79,3 +79,8 @@ not included, so documentary reproducibility remains partial. Transition
 probabilities, trust, participation and delays are synthetic, uncalibrated
 assumptions. The results are not estimates of real marketplace policy effects.
 The submitted manuscript itself is not part of this public replication package.
+
+
+## V8 ECR nested-budget supplement
+
+[V8_ECR_REVISION](V8_ECR_REVISION/README.md) adds exploratory 180/360/720-episode snapshots for two sequential scenarios, preserving 30 independent training blocks. It includes raw lossless data, paired changes, operational outcomes, protocols, source data and an independent recalculation script. The original V7 and V8 archives remain unchanged. Longer training narrows the Q-versus-bandit gap under security pressure but widens it in the reference scenario, without reversing the reward ranking. This is a sensitivity check, not a convergence claim.

@@ -1,0 +1,25 @@
+{
+  "status": "verified",
+  "protected_files": 138,
+  "changed_protected_files": [],
+  "additional_protected_files": [],
+  "completed_jobs": 1224,
+  "rows": 33840,
+  "learned_evaluations": 32400,
+  "deterministic_evaluations": 1440,
+  "unique_fitted_policy_runs_in_V8": 3456,
+  "primary_fitted_policy_runs": 3240,
+  "all_executed_evaluation_rows": 37080,
+  "historical_diagnostic_rows": 3240,
+  "reused_trained_policy_runs": 108,
+  "independent_runs_per_learned_cell": 30,
+  "evaluations_per_trained_policy": 10,
+  "primary_inference_recalculation_max_error": 1.1102230246251565e-16,
+  "terminal_residuals_corrected": 0,
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "realized_feedback_loss": {
+    "B_loss25": 0.24995895061728396,
+    "B_loss50": 0.5002024691358025
+  }
+}
