@@ -1,0 +1,10 @@
+test_bandit_training_updates_on_current_action_reward_only (test_v7_environment.V7EnvironmentTests.test_bandit_training_updates_on_current_action_reward_only) ... ok
+test_nonsequential_observation_uses_same_information_shape (test_v7_environment.V7EnvironmentTests.test_nonsequential_observation_uses_same_information_shape) ... ok
+test_q_learning_evaluation_reports_unseen_state_rate (test_v7_environment.V7EnvironmentTests.test_q_learning_evaluation_reports_unseen_state_rate) ... ok
+test_reward_components_separate_current_and_delayed_rewards (test_v7_environment.V7EnvironmentTests.test_reward_components_separate_current_and_delayed_rewards) ... ok
+test_terminal_liquidation_clears_pending_items (test_v7_environment.V7EnvironmentTests.test_terminal_liquidation_clears_pending_items) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.031s
+
+OK

@@ -1,4 +1,4 @@
-﻿__pycache__/
+__pycache__/
 *.pyc
 .venv/
 .env
@@ -7,3 +7,13 @@
 Thumbs.db
 experiments_v7/outputs/run_manifest.json
 experiments_v7/outputs/logs/
+
+# Generated V8 work; compressed evidence stays tracked
+V8_minimal_extension/checkpoints/
+V8_minimal_extension/campaign.jsonl
+V8_fresh_reproduction*/
+V8_minimal_extension/*.csv
+!V8_minimal_extension/PRIMARY_REWARD_CONTRASTS.csv
+!V8_minimal_extension/PRIMARY_MECHANISM_CONTRASTS.csv
+V8_minimal_extension/analysis/*.csv
+V8_minimal_extension/V8_MANUSCRIPT_INSERTIONS.md

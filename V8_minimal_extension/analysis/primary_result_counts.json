@@ -1,0 +1,28 @@
+{
+  "A_v7_exact": {
+    "negative_point_means": 12,
+    "positive_point_means": 0,
+    "negative_holm": 12,
+    "positive_holm": 0,
+    "negative_crossed_ci": 12,
+    "positive_crossed_ci": 0
+  },
+  "A_corrected": {
+    "negative_point_means": 12,
+    "positive_point_means": 0,
+    "negative_holm": 12,
+    "positive_holm": 0,
+    "negative_crossed_ci": 12,
+    "positive_crossed_ci": 0
+  },
+  "B": {
+    "relative_improvements_holm": 0,
+    "relative_deteriorations_holm": 0,
+    "total_comparisons": 6
+  },
+  "C": {
+    "relative_improvements_holm": 0,
+    "relative_deteriorations_holm": 0,
+    "total_comparisons": 6
+  }
+}

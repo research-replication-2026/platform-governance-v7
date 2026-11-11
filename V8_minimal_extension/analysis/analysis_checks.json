@@ -1,0 +1,11 @@
+{
+  "result_rows": 33840,
+  "unique_training_labels": 30,
+  "learned_cells": 108,
+  "independent_runs_per_learned_cell": 30,
+  "evaluations_per_run": 10,
+  "corrected_residual_pending_items_max": 0,
+  "reward_additivity_error": 1.7053025658242404e-13,
+  "fixed_rule_duplicate_training_labels": false,
+  "raw_results_sha256": "4b9d36355069f4ce7d63351eed874dc62c8625e73290900b305ea1a470fd6963"
+}

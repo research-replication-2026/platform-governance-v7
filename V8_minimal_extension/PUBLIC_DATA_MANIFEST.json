@@ -1,0 +1,152 @@
+{
+  "format": "public-lossless-v8-1",
+  "source": "verified local V8 campaign, 2026-11-11",
+  "primary_rows": 33840,
+  "all_executed_rows": 37080,
+  "compressed_csvs": [
+    {
+      "archive": "analysis/comparable_state_coverage.csv.gz",
+      "uncompressed": "analysis/comparable_state_coverage.csv",
+      "compressed_sha256": "18dc7c204cedfc6e5776348d469f85cfd017fa42799d2888ab3b6f328162e49a",
+      "uncompressed_sha256": "90366cb2579a99eb7cd71d0efcba914d4133dc4c92a7b59c46841e3304d47a69",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "analysis/condition_interactions.csv.gz",
+      "uncompressed": "analysis/condition_interactions.csv",
+      "compressed_sha256": "5ea7cd7efb4aab0e3b25e97ead4bef2242417895ae1fd2a7d1073238be7e8be7",
+      "uncompressed_sha256": "09d20d74883590867e702c92ce9c06212ab85369351a370cdc5fa95c3759f27e",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "analysis/feedback_realized_loss.csv.gz",
+      "uncompressed": "analysis/feedback_realized_loss.csv",
+      "compressed_sha256": "837ce9df50b8f5cc78272a7f9fe3b8cbcf375b2435ce1145cade520b3fb2f7a0",
+      "uncompressed_sha256": "41d534d444d2744071181b1d3c686927a2ec20cf93c265d4b3cc7f6822250109",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "analysis/implementation_sensitivity.csv.gz",
+      "uncompressed": "analysis/implementation_sensitivity.csv",
+      "compressed_sha256": "108a30af709a4c7e95477c70bf140a658a3daad0a899bf86a1766034e331db90",
+      "uncompressed_sha256": "9612346cc42dbf17991b9fb1854558b44238455c15a4e248b3f3e3a627bb8280",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "analysis/paired_policy_contrasts.csv.gz",
+      "uncompressed": "analysis/paired_policy_contrasts.csv",
+      "compressed_sha256": "5112d1eef04383e3d2f53faf14b4db26c044c5e44dc4280b4e4bb9d22b1338e0",
+      "uncompressed_sha256": "cb0b046bc97385bd9a4b7c20696cd01b475da32c4181f9e4c2a38d7220632c65",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "analysis/policy_levels.csv.gz",
+      "uncompressed": "analysis/policy_levels.csv",
+      "compressed_sha256": "229dfe4f0a75f73e252549fb4f64e5258a8e30131f6cbe39781744b902135c48",
+      "uncompressed_sha256": "7a2ffc4f1e0216aac6928a2c95cddb2c930de3093c09955fa14524b8e3c8f085",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "analysis/training_unit_metrics.csv.gz",
+      "uncompressed": "analysis/training_unit_metrics.csv",
+      "compressed_sha256": "58c1388ec4c450f1e520744a1e1930b70fc8b1953331ed94fd4cb25c61553e3c",
+      "uncompressed_sha256": "b8f8045946d4dc6ccdfb8b9526fc2ddee91f432762fa3656db3f737b38b73db7",
+      "role": "derived_analysis"
+    },
+    {
+      "archive": "EFFECTIVE_SEED_AUDIT.csv.gz",
+      "uncompressed": "EFFECTIVE_SEED_AUDIT.csv",
+      "compressed_sha256": "ca54c200c3a8fe59c23599dfcf124b5b79f857e91565c638fa735ec329d930c1",
+      "uncompressed_sha256": "4de5200f7e5fbc35317ef56e60a213cb0abda89a9a814db3850c1ceae2929f9a",
+      "role": "archived_input"
+    },
+    {
+      "archive": "PRIMARY_EFFECTIVE_SEED_AUDIT.csv.gz",
+      "uncompressed": "PRIMARY_EFFECTIVE_SEED_AUDIT.csv",
+      "compressed_sha256": "450d1689a0dfb09b2eb1da4fdc4f46a23a31d9b2e9ec9f9f0b432e45b9b2780d",
+      "uncompressed_sha256": "0d1420670dc8a4a3016a06a6887255100ffc96b5732e6d65653537bc4d8ff7d5",
+      "role": "archived_input"
+    },
+    {
+      "archive": "RUNTIME_BENCHMARK.csv.gz",
+      "uncompressed": "RUNTIME_BENCHMARK.csv",
+      "compressed_sha256": "6e9bd894fd74b36daaea3f7d7c91af7a0197d120e61a7d1b2febad8ec5130d04",
+      "uncompressed_sha256": "bb80a699c9b6828a1235955c6547e6ad5e6cf8f1d0b1a75b66178b06dfb5fcea",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V7_TARGETED_REPRODUCTION.csv.gz",
+      "uncompressed": "V7_TARGETED_REPRODUCTION.csv",
+      "compressed_sha256": "123ecf7ae473211cd64cb77453097f27ef840dacf5a33c17043e29cf0d398b3f",
+      "uncompressed_sha256": "4634abc8f0b3a4dfe792e77e6c50646e2181f816bb0a43c1a8d555520531e4c4",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_HISTORICAL_SEED_DIAGNOSTICS.csv.gz",
+      "uncompressed": "V8_HISTORICAL_SEED_DIAGNOSTICS.csv",
+      "compressed_sha256": "27f348323a7c57836311e30e370a3188cad804208c49b7e76d0fb0ab90231253",
+      "uncompressed_sha256": "55ee5982515700cddc653046c0b4d46a944836b66c3b555a0039f9c4cc99c215",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_RESULTS.csv.gz",
+      "uncompressed": "V8_RESULTS.csv",
+      "compressed_sha256": "94f63e45cd8b77f8ff914ac3f58423a0993f8ae628a5f7a9666db9768fe06529",
+      "uncompressed_sha256": "4b9d36355069f4ce7d63351eed874dc62c8625e73290900b305ea1a470fd6963",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_RESULTS_ALL_EXECUTED.csv.gz",
+      "uncompressed": "V8_RESULTS_ALL_EXECUTED.csv",
+      "compressed_sha256": "dde0a82d932b482ed24ed0258b12faa39d7f660da0ddc480879e28bd47ec405d",
+      "uncompressed_sha256": "cd29fbf9e335ec09c036f7b11bbfd5d8059daf70c9e3fa01ba617c01529be460",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_TRAINING_CURVES.csv.gz",
+      "uncompressed": "V8_TRAINING_CURVES.csv",
+      "compressed_sha256": "f01951308e208964dfd29fe72c72b2cdef9012edb5e16f0af7ca6bb26e4084a4",
+      "uncompressed_sha256": "e5f50affa4a014d230b90289986ae1cd26f033aa09c4faaf5233d9dd3dc87375",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_TRAINING_CURVES_ALL_EXECUTED.csv.gz",
+      "uncompressed": "V8_TRAINING_CURVES_ALL_EXECUTED.csv",
+      "compressed_sha256": "25110b02448d082cb610b83309ee1c768b0e5527dee35de98bcb1196b34e34da",
+      "uncompressed_sha256": "608795730a70845ead98aa1d994c09e80e66efe04622edfc3d5cded3479d3452",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_TRAINING_DIAGNOSTICS.csv.gz",
+      "uncompressed": "V8_TRAINING_DIAGNOSTICS.csv",
+      "compressed_sha256": "5cfe14d491401a2af1bd68ed973ffd5f5c372d52ed129dcc8da698b262daaa0c",
+      "uncompressed_sha256": "6ce69db76a055063039a178a2216ee548b104053dcae2619c190a77141da5708",
+      "role": "archived_input"
+    },
+    {
+      "archive": "V8_TRAINING_DIAGNOSTICS_ALL_EXECUTED.csv.gz",
+      "uncompressed": "V8_TRAINING_DIAGNOSTICS_ALL_EXECUTED.csv",
+      "compressed_sha256": "7e09d57a237cec13658ad6260255f2689f217515501f9c7ab13ceecfff2cd46c",
+      "uncompressed_sha256": "d468d4365c8b155d2bfa0bdb48624836634a33b0f836f7327c5907f1cac2c205",
+      "role": "archived_input"
+    }
+  ],
+  "scientific_source_sha256": {
+    "v8_engine.py": "ecd99971479993e07682fd66db614284a30b40afaee1d08ae2a1960fed6ca715",
+    "run_v8.py": "7e0af604acc5fcf86006ebebc24b3f383d0296837747d3c0f7b68831c41eb9e8",
+    "run_v8_replacements.py": "21b1e83b779ddfa19fbdb928c953417ab63739f2f1634396e57661061c1b654a",
+    "V8_STATISTICAL_ANALYSIS.py": "75edc188f6e483253b657ce5a3997267bd863716087d6970dc46f7eb6eaeb29f",
+    "validate_v8.py": "bd794bfba69c4748c8f613da5b7206bc1e9d4ea18a8c017e1c65300f3440a198",
+    "V8_EXPERIMENTAL_PROTOCOL.md": "18d7520e4de1b0061002a6042d46a44836a97885c848af5ec90fbf707f770d40",
+    "V8_PROTOCOL_AMENDMENT_01.md": "4f77848a691616a7b4eae128f861d7630514153d8e274d835e5bf7846ba7360a",
+    "V8_EXPERIMENT_MANIFEST.json": "c4a7a469da0e159f8a87d09572298fe6e1fd9abf28fb1f64cee3ca324b70a633",
+    "V8_AMENDMENT_01_MANIFEST.json": "c08c3ef4d45d8f21caa60625c19969cf96b33f4f66096456d3a6b640c55fe93b",
+    "vendor/v7_frozen.py": "917585f963b4b203a8dbd13494252ed90bf43db02ecbf215ac01c5cf741c5351"
+  },
+  "omitted": [
+    "machine-specific checkpoints",
+    "private archived manuscripts",
+    "full documentary source collection"
+  ],
+  "scope": "Public reanalysis and full computational rerun; private-workspace preservation audit is reported but not recreated."
+}

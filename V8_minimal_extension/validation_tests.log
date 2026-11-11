@@ -1,0 +1,10 @@
+test_fast_discretizer_matches_boundaries_and_random (__main__.Tests.test_fast_discretizer_matches_boundaries_and_random) ... ok
+test_feedback_mask_does_not_change_dynamics (__main__.Tests.test_feedback_mask_does_not_change_dynamics) ... ok
+test_observation_has_no_hidden_submission_or_future_leak (__main__.Tests.test_observation_has_no_hidden_submission_or_future_leak) ... ok
+test_terminal_generated_incidents_are_paid (__main__.Tests.test_terminal_generated_incidents_are_paid) ... ok
+test_terminal_q_update_has_no_bootstrap (__main__.Tests.test_terminal_q_update_has_no_bootstrap) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.282s
+
+OK
